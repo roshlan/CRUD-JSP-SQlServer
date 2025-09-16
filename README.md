@@ -6,10 +6,15 @@ It allows users to add, view, edit, and delete records from a database directly 
 
 **🚀 Features:**
 ➕ Add New User
+
 ✅ Success & Error Messages (adduser-success.jsp, adduser-error.jsp)
+
 📋 View All Users
+
 ✏️ Edit / Update User Details (editform.jsp, edituser.jsp)
+
 ❌ Delete User
+
 🏠 Home Page (index.jsp, userform.html)
 
 **🛠️ Technologies Used"**
@@ -50,9 +55,9 @@ c,Apache Tomcat JARs (for JSP/Servlet API support if not provided by server)
 
 👉 Without these, the project will throw errors for database connection or JSTL tags.
 
-⚙️ Setup Instructions:
+**⚙️ Setup Instructions:**
 1.Clone the repository:
-    git clone https://github.com/your-username/jsp-crud.git
+    git clone https://github.com/roshlan/CRUD-JSP-SQLServer.git
 2.Import the project into Eclipse / IntelliJ IDEA as a Dynamic Web Project.
 3.Configure Tomcat server in your IDE.
 
